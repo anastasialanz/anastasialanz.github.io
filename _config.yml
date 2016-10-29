@@ -1,0 +1,11 @@
+# Site settings
+title: Anastasia Lanz
+description: > # this means to ignore newlines until "baseurl:"
+  Developer at Wall-to-Wall Studios. Doer of all the things.
+baseurl: "" # the subpath of your site, e.g. /blog/
+url: "http://anastasialanz.com" # the base hostname & protocol for your site
+twitter_username: anastasialanz
+github_username:  anastasialanz
+
+# Build settings
+markdown: kramdown

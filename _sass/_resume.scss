@@ -114,3 +114,11 @@
     }
   }
 }
+
+footer {
+  a {
+    &:visited, &:hover, &:active {
+      color: $dark;
+    }
+  }
+}
